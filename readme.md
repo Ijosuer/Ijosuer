@@ -16,7 +16,7 @@
 <li> 👨🏻‍🎓 I'm Science and System <b>Engineer</b> Student from Universidad de San Carlos de Guatemala. </li>
 <li> 💡 Aspiring Software <b>Developer</b> with good problem-solving skills. Able to perform well in a <b>team</b>.</li>
 <li>👨🏻‍💻 Coding <b> 24/6</b> ... Just gimme one day! :D.</li>
-<li>🔎 I'm currently open for: <b>An intern</b> or a <b>job opportunity</b>, this is <a href="https://ijosuer.github.io/CV/">MY RESUME</a></li>
+<li>🔎 I'm currently open for: <b>An intern</b> or a <b>job opportunity</b></li>
 <li>☀️ Everyday <b>learning</b> new stuff</li>
 </ul>
 <br>
