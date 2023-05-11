@@ -61,13 +61,10 @@
 
 ## 📊 Github Stats
 <div style="display: block;">
-<p>
-  <h3 align="center">Stats:</h3>
-<p>
     <a align="left">
       <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ijosuer&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="ijosuer" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ijosuer&show_icons=true&theme=dark&locale=en" alt="ijosuer" /></p></a>  
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ijosuer&layout=compact&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="ijosuer" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ijosuer&show_icons=true&theme=tokyonight&locale=en" alt="ijosuer" /></p></a>  
   </p>
 </p>
 </div>
